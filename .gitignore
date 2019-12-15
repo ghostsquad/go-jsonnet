@@ -9,6 +9,10 @@ coverage.out
 /bazel-out
 /bazel-testlogs
 /dumpstdlibast
+
+# built binaries
 /jsonnet
+/jsonnet.exe
+
 /linter/jsonnet-lint/jsonnet-lint
 /tests_path.source
